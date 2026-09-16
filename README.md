@@ -1,6 +1,4 @@
- Olá, eu sou a Natalia Brazil
-
-🎯 **Objetivo:** Desenvolvedora em constante evolução, apaixonada por tecnologia, segurança da informação e automação.  
+Olá, eu sou a Natalia Brazil, sou QA em constante evolução, apaixonada por tecnologia, segurança da informação e automação.  
 💼 **LinkedIn:** [Natalia Brazil](https://www.linkedin.com/in/natalia-brazil-064668251/)  
 📍 Brasília, Brasil  
 
