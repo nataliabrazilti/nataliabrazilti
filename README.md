@@ -30,7 +30,7 @@ Olá, eu sou a Natalia Brazil, sou QA em constante evolução, apaixonada por te
 
 🌐 Vamos nos conectar!
 - 💼 [LinkedIn](https://www.linkedin.com/in/natalia-brazil-064668251/)  
-- 📧 Email: *(adicione aqui seu contato profissional)*  
-
+- 📧 Email: nataliabrazilti@gmail.com
 ---
+
 ✨ Sempre em busca de novos desafios e aprendizados!
