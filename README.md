@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**nataliabrazilti/nataliabrazilti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Olá, eu sou a Natalia Brazil
+ Olá, eu sou a Natalia Brazil
 
 🎯 **Objetivo:** Desenvolvedora em constante evolução, apaixonada por tecnologia, segurança da informação e automação.  
 💼 **LinkedIn:** [Natalia Brazil](https://www.linkedin.com/in/natalia-brazil-064668251/)  
@@ -11,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+ Sobre mim
 - 💻 Experiência em **Java**, **JavaScript**, **HTML/CSS** e práticas de **DevSecOps**.  
 - 🔐 Interesse especial em **segurança da informação** e integração de segurança em pipelines de desenvolvimento.  
 - 🌱 Atualmente aprendendo e aplicando **testes automatizados** e boas práticas de desenvolvimento ágil.  
@@ -19,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+ Tecnologias & Ferramentas
 - **Linguagens:** Java, JavaScript, HTML, CSS  
 - **DevOps & Segurança:** Maven, NPM, CI/CD, DevSecOps  
 - **Testes:** Cypress, automação de testes  
@@ -27,7 +22,7 @@
 
 ---
 
-## 📂 Projetos em Destaque
+ 📂 Projetos em Destaque
 - 🔹 **[Projeto-DevSecOps-Mvn](https://github.com/nataliabrazilti/Projeto-DevSecOps-Mvn)** – Pipeline em Java com foco em segurança.  
 - 🔹 **[Projeto-DevSecOps-Npm](https://github.com/nataliabrazilti/Projeto-DevSecOps-Npm)** – Automação em JavaScript com práticas de DevSecOps.  
 - 🔹 **[mywebsite](https://github.com/nataliabrazilti/mywebsite)** – Site de catering desenvolvido em HTML.  
@@ -35,12 +30,12 @@
 
 ---
 
-## 📈 Estatísticas GitHub
+📈 Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliabrazilti&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Vamos nos conectar!
+🌐 Vamos nos conectar!
 - 💼 [LinkedIn](https://www.linkedin.com/in/natalia-brazil-064668251/)  
 - 📧 Email: *(adicione aqui seu contato profissional)*  
 
