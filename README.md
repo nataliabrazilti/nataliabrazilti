@@ -28,11 +28,6 @@ Olá, eu sou a Natalia Brazil, sou QA em constante evolução, apaixonada por te
 
 ---
 
-📈 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliabrazilti&show_icons=true&theme=radical)
-
----
-
 🌐 Vamos nos conectar!
 - 💼 [LinkedIn](https://www.linkedin.com/in/natalia-brazil-064668251/)  
 - 📧 Email: *(adicione aqui seu contato profissional)*  
