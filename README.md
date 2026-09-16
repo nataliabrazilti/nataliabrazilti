@@ -3,14 +3,46 @@
 <!--
 **nataliabrazilti/nataliabrazilti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou a Natalia Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Objetivo:** Desenvolvedora em constante evolução, apaixonada por tecnologia, segurança da informação e automação.  
+💼 **LinkedIn:** [Natalia Brazil](https://www.linkedin.com/in/natalia-brazil-064668251/)  
+📍 Brasília, Brasil  
+
+---
+
+## 🚀 Sobre mim
+- 💻 Experiência em **Java**, **JavaScript**, **HTML/CSS** e práticas de **DevSecOps**.  
+- 🔐 Interesse especial em **segurança da informação** e integração de segurança em pipelines de desenvolvimento.  
+- 🌱 Atualmente aprendendo e aplicando **testes automatizados** e boas práticas de desenvolvimento ágil.  
+- 🤝 Aberta a colaborar em projetos open source e iniciativas que promovam inovação tecnológica.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java, JavaScript, HTML, CSS  
+- **DevOps & Segurança:** Maven, NPM, CI/CD, DevSecOps  
+- **Testes:** Cypress, automação de testes  
+- **Ferramentas:** Git, VSCode, GitHub Actions  
+
+---
+
+## 📂 Projetos em Destaque
+- 🔹 **[Projeto-DevSecOps-Mvn](https://github.com/nataliabrazilti/Projeto-DevSecOps-Mvn)** – Pipeline em Java com foco em segurança.  
+- 🔹 **[Projeto-DevSecOps-Npm](https://github.com/nataliabrazilti/Projeto-DevSecOps-Npm)** – Automação em JavaScript com práticas de DevSecOps.  
+- 🔹 **[mywebsite](https://github.com/nataliabrazilti/mywebsite)** – Site de catering desenvolvido em HTML.  
+- 🔹 **[webdojo](https://github.com/nataliabrazilti/webdojo)** – Estudos de testes automatizados com Cypress.  
+
+---
+
+## 📈 Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliabrazilti&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Vamos nos conectar!
+- 💼 [LinkedIn](https://www.linkedin.com/in/natalia-brazil-064668251/)  
+- 📧 Email: *(adicione aqui seu contato profissional)*  
+
+---
+✨ Sempre em busca de novos desafios e aprendizados!
