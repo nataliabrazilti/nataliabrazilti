@@ -12,11 +12,16 @@ Olá, eu sou a Natalia Brazil, sou QA em constante evolução, apaixonada por te
 
 ---
 
- Tecnologias & Ferramentas
+## 🚀 Tecnologias
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000?style=flat&logo=robotframework&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 - **Linguagens:** Java, JavaScript, HTML, CSS  
 - **DevOps & Segurança:** Maven, NPM, CI/CD, DevSecOps  
 - **Testes:** Cypress, automação de testes  
-- **Ferramentas:** Git, VSCode, GitHub Actions  
+- **Ferramentas:** Git, VSCode, GitHub Actions
 
 ---
 
@@ -34,3 +39,4 @@ Olá, eu sou a Natalia Brazil, sou QA em constante evolução, apaixonada por te
 ---
 
 ✨ Sempre em busca de novos desafios e aprendizados!
+
